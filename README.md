@@ -1,2 +1,2 @@
 # Food
-https://github.com/Ayush19bansal/Food
+https://ayush19bansal.github.io/Food/
